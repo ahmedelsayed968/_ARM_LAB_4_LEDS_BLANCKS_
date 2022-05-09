@@ -1,0 +1,12 @@
+.\source.o: Source.c
+.\source.o: C:\Keil\ARM\Inc\TI\TM4C123\TM4C123.h
+.\source.o: C:\Keil\ARM\Inc\TI\TM4C123\TM4C123GE6PM.h
+.\source.o: C:\Keil\ARM\CMSIS\Include\core_cm4.h
+.\source.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\source.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\source.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\source.o: C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h
+.\source.o: C:\Keil\ARM\Inc\TI\TM4C123\system_TM4C123.h
+.\source.o: SystickDelay.h
+.\source.o: PortF.h
+.\source.o: C:\Users\asr96\Downloads\Io.h

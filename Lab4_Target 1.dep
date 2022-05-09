@@ -1,0 +1,20 @@
+Dependencies for Project 'Lab4', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_TM4C123.s)(0x6279540C)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123--list .\startup_tm4c123.lst --xref -o .\startup_tm4c123.o --depend .\startup_tm4c123.d)
+F (.\Source.c)(0x627978C3)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GE6PM-o .\source.o --omf_browse .\source.crf --depend .\source.d)
+I (C:\Keil\ARM\Inc\TI\TM4C123\TM4C123.h)(0x532C4878)
+I (C:\Keil\ARM\Inc\TI\TM4C123\TM4C123GE6PM.h)(0x532C4878)
+I (C:\Keil\ARM\CMSIS\Include\core_cm4.h)(0x532C4C22)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C4C22)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C4C22)
+I (C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h)(0x532C4C22)
+I (C:\Keil\ARM\Inc\TI\TM4C123\system_TM4C123.h)(0x532C4878)
+I (SystickDelay.h)(0x6279693A)
+I (PortF.h)(0x62795660)
+I (C:\Users\asr96\Downloads\Io.h)(0x627948D2)
+F (.\PortF.c)(0x62796752)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GE6PM-o .\portf.o --omf_browse .\portf.crf --depend .\portf.d)
+I (PortF.h)(0x62795660)
+I (C:\Users\asr96\Downloads\Io.h)(0x627948D2)
+F (.\SystickDelay.c)(0x627968EB)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GE6PM-o .\systickdelay.o --omf_browse .\systickdelay.crf --depend .\systickdelay.d)
+I (SystictIO.h)(0x627956A5)
+I (SystickDelay.h)(0x6279693A)
