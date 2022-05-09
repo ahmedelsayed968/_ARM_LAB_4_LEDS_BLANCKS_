@@ -1,0 +1,2 @@
+# _ARM_LAB_4_LEDS_BLANCKS_
+an Embedded c program to blink Tiva-c LEDS using Systick Timer  
